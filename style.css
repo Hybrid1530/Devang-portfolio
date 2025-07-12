@@ -209,3 +209,14 @@ footer {
     gap: 10px;
   }
 }
+
+.project-card h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.project-card h3 a:hover {
+  text-decoration: none;
+  color: #333; /* optional: match with heading color */
+}
+
